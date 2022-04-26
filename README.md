@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leilanigarciia
 - 👀 I’m interested in learning program languages
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me leilani.garcia0113@gmail.com
 
