@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @leilanigarciia
-- 👀 I’m interested in learning program languages
+- 👋 Hi, I’m Leilani!
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me leilani.garcia0113@gmail.com
+- 📫 You can reach me at LeilaniGarciia@outlook.com
 
 <!---
 leilanigarciia/leilanigarciia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
