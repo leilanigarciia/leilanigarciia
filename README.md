@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leilani!
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python, C# and Web Development
 - 📫 You can reach me at LeilaniGarciia@outlook.com
 
 <!---
